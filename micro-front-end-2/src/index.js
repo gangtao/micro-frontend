@@ -1,1 +1,0 @@
-document.querySelector('#microFrontend2').innerHTML = '<p>Micro-Front-End-2</p>';
